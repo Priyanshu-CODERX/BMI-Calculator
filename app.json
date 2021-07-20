@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "BMI Calculator",
+    "slug": "snack-92b967c0-c121-4499-9f9e-2f25cb44934f",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/bmi.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/bmi.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.priyanshucoderx.bmicalculator"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
